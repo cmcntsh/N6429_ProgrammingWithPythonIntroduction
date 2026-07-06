@@ -10,6 +10,8 @@ We did this in a previous assignment. You can review how to fork a repository at
 
 ![Right-Click Save Link As to Download File](https://github.com/cmcntsh/N6429_ProgrammingWithPythonIntroduction/raw/refs/heads/main/N6429_Python_Introduction.ipynb)
 
+(If you just use a regular click on the link above, the raw JSON file will display in your browser window.)
+
 ## Step 3: Upload the notebook to Google Colab
 
 Google Colab - File - Upload notebook
