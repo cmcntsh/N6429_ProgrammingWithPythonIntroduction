@@ -1,6 +1,6 @@
 # N6429 Programming with Python Introduction
 
-You can see a video demonstration of this assignment at 
+You can see a video demonstration of this assignment at https://youtu.be/CGV3G_BPK1I
 
 ## Step 1: Fork this repository
 
