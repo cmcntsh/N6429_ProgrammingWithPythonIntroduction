@@ -8,15 +8,15 @@ We did this in a previous assignment. You can review how to fork a repository at
 
 ## Step 2: Download the Google Colab notebook from this repository
 
-
+![Click Link to Download File](https://github.com/cmcntsh/N6429_ProgrammingWithPythonIntroduction/raw/refs/heads/main/files/N6429_Python_Introduction.ipynb)
 
 ## Step 3: Upload the notebook to Google Colab
 
-
+Google Colab - File - Upload notebook
 
 ## Step 4: Follow the assignment instructions in the notebook in Google Colab
 
-
+See the notebook in Google Colab.
 
 ## Step 5: Save & Download
 
