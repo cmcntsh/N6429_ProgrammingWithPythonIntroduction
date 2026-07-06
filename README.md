@@ -14,7 +14,7 @@ We did this in a previous assignment. You can review how to fork a repository at
 
 ## Step 3: Upload the notebook to Google Colab
 
-Google Colab - File - Upload notebook
+![Google Colab](https://colab.research.google.com/) - File - Upload notebook
 
 ## Step 4: Follow the assignment instructions in the notebook in Google Colab
 
